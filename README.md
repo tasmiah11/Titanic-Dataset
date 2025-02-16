@@ -45,6 +45,7 @@ The analysis reveals that survival on the Titanic was influenced by factors such
 
 ## Repository Structure
 README.md: This file.
+Data/: Contains the dataset in CSV format
 Src/: Jupyter notebooks detailing the EDA process.
 Docs/: Scripts used for data cleaning and visualization.
 Results/: Output visualizations and statistical analysis results.
